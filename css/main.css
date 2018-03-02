@@ -1,0 +1,38 @@
+
+#box{
+	position: absolute;
+	top: 20px;
+	left: 795px;
+	height: 200px;
+	width: 160px;
+
+	background-color: white;
+}
+
+#img{
+	margin: 0;
+
+}
+
+#name{
+	position: absolute;
+	top: 140px;
+
+	height: 20px;
+	width: 160px;
+
+	text-align: center;
+	
+	padding-top: 14px;
+
+	font-size: 16px;
+
+	color: #666;
+
+}
+
+
+img{
+	height: 160px;
+
+}
